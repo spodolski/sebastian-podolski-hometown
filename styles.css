@@ -32,6 +32,7 @@ body {
   border-radius: 20px;
   padding: 30px;
   display: flex;
+  flex-wrap: wrap;
 }
 .tags {
   flex: 1;
@@ -51,8 +52,8 @@ h2 {
   margin: 20px;
 }
 a {
-  color: #c7f9cc;
-  text-shadow: 0 0 2px black;
+  color: #22577a;
+  font-weight: 600;
 }
 footer {
   display: flex;
